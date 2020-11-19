@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WalkThrough</string>
+    <string name="description">Descriptions</string>
+    <string name="enterMobileNumber">Enter your mobile number</string>
+</resources>
